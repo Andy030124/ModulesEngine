@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocSetNodes version="1.0">
+  <TOC>
+    <Node>
+      <Name>Root</Name>
+      <Path>index.html</Path>
+      <Subnodes>
+       <Node>
+        <Name>Archivos</Name>
+        <Path>files.html</Path>
+        <Subnodes>
+         <Node>
+          <Name>Lista de archivos</Name>
+          <Path>files.html</Path>
+          <Subnodes>
+           <Node>
+            <Name>src</Name>
+            <Path>dir_68267d1309a1af8e8297ef4c3efbcdba.html</Path>
+            <Subnodes>
+             <Node>
+              <Name>modules-compiler</Name>
+              <Path>dir_56b85da67e7e9c751b67392df0f366d7.html</Path>
+              <Subnodes>
+               <Node>
+                <Name>modcompiler.cpp</Name>
+                <Path>modcompiler_8cpp_source.html</Path>
+               </Node>
+               <Node>
+                <Name>modcompiler.hpp</Name>
+                <Path>modcompiler_8hpp_source.html</Path>
+               </Node>
+              </Subnodes>
+             </Node>
+             <Node>
+              <Name>main.cpp</Name>
+              <Path>main_8cpp_source.html</Path>
+             </Node>
+            </Subnodes>
+           </Node>
+          </Subnodes>
+         </Node>
+        </Subnodes>
+       </Node>
+      </Subnodes>
+    </Node>
+  </TOC>
+</DocSetNodes>

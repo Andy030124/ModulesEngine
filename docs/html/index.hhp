@@ -1,0 +1,35 @@
+[OPTIONS]
+Compiled file=help.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Language=0x40A Spanish(Traditional Sort)
+Title=GameEngine
+
+[WINDOWS]
+main="GameEngine","index.hhc",,"index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+dir_56b85da67e7e9c751b67392df0f366d7.html
+dir_68267d1309a1af8e8297ef4c3efbcdba.html
+files.html
+graph_legend.html
+index.html
+main_8cpp_source.html
+modcompiler_8cpp_source.html
+modcompiler_8hpp_source.html
+bc_s.png
+bdwn.png
+closed.png
+graph_legend.png
+nav_f.png
+nav_h.png
+open.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
